@@ -5,8 +5,6 @@ Fork on GitHub6048
 <h1 align="center">Hi 👋, I'm Mst Fatema Akther Baly</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mstfatemaaktherbaly&label=Profile%20views&color=0e75b6&style=flat" alt="mstfatemaaktherbaly" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mstfatemaaktherbaly" alt="mstfatemaaktherbaly" /></a> </p>
 
 - 🔭 I’m currently working on [Laraval Ecommerce Project](https://github.com/MstFatemaAktherBaly/My-ecommerce.git)
@@ -25,6 +23,7 @@ Fork on GitHub6048
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/mst fatema akther baly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mst fatema akther baly" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mstfatema akther baly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mstfatema akther baly" height="30" width="40" /></a>
 <a href="https://fb.com/mst fatema akther baly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mst fatema akther baly" height="30" width="40" /></a>
 <a href="https://instagram.com/mst_fatema_akther_baly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mst_fatema_akther_baly" height="30" width="40" /></a>
