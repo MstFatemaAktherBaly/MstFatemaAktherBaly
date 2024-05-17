@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo20014
-Fork on GitHub6048
+
 <h1 align="center">Hi 👋, I'm Mst Fatema Akther Baly</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
